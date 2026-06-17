@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "PowerCo Confluence Assistant",
+  "name_for_model": "powerco_confluence",
+  "description_for_human": "Search and read content from Confluence Cloud spaces.",
+  "description_for_model": "This plugin allows searching and retrieving content from Confluence Cloud. It supports querying pages, reading page content, and accessing knowledge stored in Confluence spaces. The plugin must only be used for read-only operations and knowledge retrieval.",
+  "auth": {
+    "type": "service_http"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://dac-static.atlassian.com/cloud/confluence/openapi-v2.v3.json"
+  },
+  "logo_url": "",
+  "contact_email": "",
+  "legal_info_url": ""
+}
