@@ -1,0 +1,53 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "Confluence API",
+    "description": "Simple API to search and read Confluence pages",
+    "version": "1.0.0"
+  },
+  "host": "your-domain.github.io",
+  "basePath": "/",
+  "schemes": [
+    "https"
+  ],
+  "paths": {
+    "/search": {
+      "get": {
+        "operationId": "searchPages",
+        "summary": "Search Confluence pages",
+        "parameters": [
+          {
+            "name": "query",
+            "in": "query",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Search results"
+          }
+        }
+      }
+    },
+    "/page": {
+      "get": {
+        "operationId": "getPage",
+        "summary": "Get page content",
+        "parameters": [
+          {
+            "name": "pageId",
+            "in": "query",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Page content"
+          }
+        }
+      }
+    }
+  }
+}
