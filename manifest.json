@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Confluence Assistant",
+  "name_for_model": "confluence_assistant",
+  "description_for_human": "Search and read Confluence pages",
+  "description_for_model": "Use this plugin to search and retrieve Confluence pages.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://martinzingler.github.io/copilot/OpenAPI.json"
+  },
+  "logo_url": "https://<username>.github.io/logo.png",
+  "contact_email": "test@test.com",
+  "legal_info_url": "https://test.com"
+}
