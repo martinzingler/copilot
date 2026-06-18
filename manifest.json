@@ -9,7 +9,7 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://martinzingler.github.io/copilot/OpenAPI.json"
+    "url": "https://martinzingler.github.io/copilot/openapi.json"
   },
   "logo_url": "https://volkswagengroup.sharepoint.com/sites/PowerCo_SE/Brand/PowerCo_Logo/PowerCo_Signet/RGB_PNG/PowerCo_Signet_blue_mono.png",
   "contact_email": "martin.zingler@powerco.de",
