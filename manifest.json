@@ -11,7 +11,7 @@
     "type": "openapi",
     "url": "https://martinzingler.github.io/copilot/OpenAPI.json"
   },
-  "logo_url": "https://<username>.github.io/logo.png",
-  "contact_email": "test@test.com",
-  "legal_info_url": "https://test.com"
+  "logo_url": "",
+  "contact_email": "",
+  "legal_info_url": ""
 }
