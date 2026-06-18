@@ -5,7 +5,7 @@
     "description": "Simple API to search and read Confluence pages",
     "version": "1.0.0"
   },
-  "host": "your-domain.github.io",
+  "host": "martinzingler.github.io",
   "basePath": "/",
   "schemes": [
     "https"
