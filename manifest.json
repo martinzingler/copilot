@@ -11,7 +11,7 @@
     "type": "openapi",
     "url": "https://martinzingler.github.io/copilot/openapi.json"
   },
-  "logo_url": "https://volkswagengroup.sharepoint.com/sites/PowerCo_SE/Brand/PowerCo_Logo/PowerCo_Signet/RGB_PNG/PowerCo_Signet_blue_mono.png",
+  "logo_url": "https://martinzingler.github.io/copilot/PowerCo_Signet_blue_mono.png",
   "contact_email": "martin.zingler@powerco.de",
-  "legal_info_url": "https://volkswagengroup.sharepoint.com/sites/PowerCo_SE/SitePages/en/Qualit%C3%A4tsmanagement.aspx"
+  "legal_info_url": "https://powerco.de"
 }
